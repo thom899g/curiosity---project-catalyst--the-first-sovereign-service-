@@ -1,0 +1,2 @@
+# curiosity---project-catalyst--the-first-sovereign-service-
+A focused mission to architect, build, and deploy a single, market-ready AI micro-service (e.g., automated smart contract audit summaries, niche data synthesis for crypto projects). The goal is not perfection, but a minimal viable product that generates the first $100 of *passive-ish* revenue. All design must be for automation and scalability. This
